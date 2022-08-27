@@ -66,3 +66,5 @@ steps = 0
 ## Step 7
 
 That's it! Download it to the micro:bit.
+
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>

@@ -1,6 +1,10 @@
 
 > Open this page at [https://martinwork.github.io/step-counter/](https://martinwork.github.io/step-counter/)
 
+## Tutorial
+
+* [Tutorial](/step-counter/tutorial)
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
