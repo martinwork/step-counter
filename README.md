@@ -3,7 +3,7 @@
 
 ## Tutorial
 
-* [Tutorial](/step-counter/tutorial)
+* [Tutorial](/step-counter/tutorial) [start](https://makecode.microbit.org/#tutorial:github:martinwork/step-counter/tutorial)
 
 ## Use as Extension
 
